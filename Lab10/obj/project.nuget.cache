@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QKFakrOXQ4H7Y8t3idi2MkwZ5pWf+wOtcWHvi29zr+l64Gqi/eSibmV/cNHDc2H/OCJe/2VkFdRQeaPPjY3n3g==",
+  "success": true,
+  "projectFilePath": "/Users/andriizahreichuk/Documents/Labs/Lab10/Lab10.csproj",
+  "expectedPackageFiles": [
+    "/Users/andriizahreichuk/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/andriizahreichuk/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
